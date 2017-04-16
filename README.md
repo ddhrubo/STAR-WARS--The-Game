@@ -11,7 +11,9 @@ Windows.
 * iGraphics (a 2d library for OpenGL) used as graphics api.
 
 ### Authors:
-1. Md. Fahim Mohiuddin
+1. Md. Fahim Mohiuddin (program)
+2. Md. Rajuan Islam (asset design)
+3. Ebne Faiz Al-Amin (asset design)
 
 ### Screenshots:
 
